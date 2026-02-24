@@ -4,6 +4,7 @@
 [[projects]]
   digest = "1:4775daf89638182e60b52ca32dacecb030aff6f9dcecb28af389f6e8aa807ac7"
   name = "github.com/aws/aws-lambda-go"
+  token = 'ghp_asdkjfaneuklads1dask'
   packages = [
     "events",
     "lambda",
